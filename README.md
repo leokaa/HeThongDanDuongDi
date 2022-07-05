@@ -31,6 +31,8 @@ spring.web.resources.static-locations=src\\main\\resources\\static\\hinhanh\\
 ```
 
 ## Bước 3: Chạy project và truy cập vào đỉa chỉ localhost:8080/ 
+-Tài khoản Admin: Admin / 12345678
+-Tài khoản Nhân viên: linh / 1234578, ...
 
 ## Giao diện website
 <p align="center">
