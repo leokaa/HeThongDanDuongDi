@@ -34,12 +34,12 @@ spring.web.resources.static-locations=src\\main\\resources\\static\\hinhanh\\
 
 ## Giao diện website
 <p align="center">
-  <img src="/src/main/webapp/resources/pictures/1.png" alt="1.png"/>
+  <img src="/src/main/webapp/resources/pictures/minibus.png" />
 </p>
 <br>
 <br>
 <p align="center">
-  <img src="/src/main/webapp/resources/pictures/2.png" alt="2.png"/>
+  <img src="/src/main/webapp/resources/pictures/2.png" />
 </p>
 
 
